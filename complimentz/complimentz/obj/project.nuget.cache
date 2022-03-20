@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ljNG3OuJu7r+xeK8bzSm/RLapAVgCUXm0XLxFJyf1GNO+CVawhktnl0Mkmf6JnoU/jyYfD1hW/NZJout3OAnFw==",
+  "dgSpecHash": "pFb4M3uptvICEdv823JJ9EFyZu9s6WAq8d53pIYco9AxbrS5awvy2SqysfCyG+tFr0hDWEk93Rx3dssxkWXQJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bones\\Source\\compliments\\complimentz\\complimentz\\complimentz.csproj",
+  "projectFilePath": "C:\\Users\\Autumn\\Documents\\Scripts\\warmer-autumn\\compliments\\complimentz\\complimentz\\complimentz.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bones\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+    "C:\\Users\\Autumn\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],
   "logs": []
 }

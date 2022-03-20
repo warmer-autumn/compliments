@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bones\\Source\\compliments\\complimentz\\complimentz\\complimentz.csproj": {}
+    "C:\\Users\\Autumn\\Documents\\Scripts\\warmer-autumn\\compliments\\complimentz\\complimentz\\complimentz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bones\\Source\\compliments\\complimentz\\complimentz\\complimentz.csproj": {
+    "C:\\Users\\Autumn\\Documents\\Scripts\\warmer-autumn\\compliments\\complimentz\\complimentz\\complimentz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bones\\Source\\compliments\\complimentz\\complimentz\\complimentz.csproj",
+        "projectUniqueName": "C:\\Users\\Autumn\\Documents\\Scripts\\warmer-autumn\\compliments\\complimentz\\complimentz\\complimentz.csproj",
         "projectName": "complimentz",
-        "projectPath": "C:\\Users\\bones\\Source\\compliments\\complimentz\\complimentz\\complimentz.csproj",
-        "packagesPath": "C:\\Users\\bones\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bones\\Source\\compliments\\complimentz\\complimentz\\obj\\",
+        "projectPath": "C:\\Users\\Autumn\\Documents\\Scripts\\warmer-autumn\\compliments\\complimentz\\complimentz\\complimentz.csproj",
+        "packagesPath": "C:\\Users\\Autumn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Autumn\\Documents\\Scripts\\warmer-autumn\\compliments\\complimentz\\complimentz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bones\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Autumn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
