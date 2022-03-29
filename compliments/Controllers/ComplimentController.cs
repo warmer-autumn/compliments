@@ -15,9 +15,11 @@ namespace compliments.Controllers
         }
 
         [HttpGet(Name = "GetCompliment")]
-        public string Get()
+        //[Route ("compliment/get/{name:string}")]
+        public string Get(string name)
         {
-            var generator = new ComplimentGenerator("You are very ");
+
+            var generator = new ComplimentGenerator(name);
             return generator.ComplimentGetString();
         }
     }
